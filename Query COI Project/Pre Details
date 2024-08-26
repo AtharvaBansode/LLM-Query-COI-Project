@@ -1,0 +1,8 @@
+<!-- Packages -->
+langchain==0.0.154
+PyPDF2==3.0.1
+faiss-cpu==1.7.4
+openai
+tiktoken
+
+key = 'sk-IvEYJFI4GT9rUSCXnY1jT38IbkFJm9rC6saxrbaBQ5wsB9Nj'
