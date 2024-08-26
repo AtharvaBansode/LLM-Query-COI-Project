@@ -26,6 +26,7 @@ Deployment and Accessibility:
 Scalability: The application is designed to be easily scalable and adaptable, with the potential for further enhancements and integration with additional legal texts.
 
 Use Cases:
+
 Legal Research: Ideal for lawyers, law students, and researchers looking to quickly find relevant sections of the Constitution of India.
 
 Educational Tool: This can be used by educators and students to explore the Constitution in a more interactive and engaging way.
