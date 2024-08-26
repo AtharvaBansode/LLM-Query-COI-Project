@@ -33,4 +33,4 @@ Educational Tool: This can be used by educators and students to explore the Cons
 
 Public Reference: Serves as a valuable resource for anyone interested in understanding and referencing the Constitution of India.
 
-This Query COI Project is a powerful tool that combines the latest in NLP technology with user-friendly design to provide quick and accurate access to India's most important legal document. Its integration with advanced APIs and PDF handling capabilities makes it a valuable resource for legal professionals, educators, and the general public alike.
+This Query COI Project is a powerful tool that combines the latest in NLP technology with user-friendly design to provide quick and accurate access to India's most important legal document. Its integration with advanced APIs and PDF handling capabilities makes it a valuable resource for legal professionals, educators, and the general public like.
