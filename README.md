@@ -3,6 +3,7 @@
 The Query COI Project is an innovative tool designed to facilitate easy and efficient access to specific content within the Constitution of India. By leveraging advanced Natural Language Processing (NLP) techniques, this application allows users to search and retrieve relevant sections and content from a PDF of the Constitution of India.
 
 Key Features:
+
 Streamlit Interface:
 Interactive Search: Users can input search queries related to the Constitution of India, and the app will return the most relevant content from the PDF.
 
